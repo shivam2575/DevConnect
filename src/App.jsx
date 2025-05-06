@@ -1,7 +1,12 @@
+import Navbar from "./Navbar";
+
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <Navbar />
+      <div className="flex justify-center items-center h-screen">
+        <h1 className="font-bold text-2xl">Hello World</h1>
+      </div>
     </>
   );
 }

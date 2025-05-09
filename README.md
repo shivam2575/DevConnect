@@ -7,3 +7,5 @@
 - Added Navbar component
 - integrated react router
 - added Footer component
+- Add login page
+- Add Sign up page
